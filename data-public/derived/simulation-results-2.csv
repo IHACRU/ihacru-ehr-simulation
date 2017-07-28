@@ -1,0 +1,326 @@
+start_day,encounter_class,event_title,gender,event_year,id,event_detail,age_group,end_day,encounter_type,location_map_id,duration_days,event_month,encounter_id,event_type
+3207.98043398,Inpatient,NA,Male,2016.0,DC2302,XR Chest 2 Views,45 - 49,1907.16980628,Emergency,1631.0,-3.58964236763,10.0,87256532.0,General Lab
+1298.71721951,Inpatient,Mental Health,Female,2013.0,2D98203,Adult Psychiatry,35 - 39,1692.19452129,Open Encounter,1612.0,6.56278805828,10.0,29904969.0,Encounter Only
+523.655584943,Inpatient,Mental Health,Female,2013.0,2D98203,Hepatitis C Antibody,35 - 39,1465.53674898,MHAS - Acute Care,167.0,15.0216379389,11.0,25603783.0,Encounter Only
+1527.42394678,Outpatient,NA,Female,2017.0,2D98203,Chem 7 Hem Careset,35 - 39,785.797990724,Emergency,1448.0,22.5895844542,1.0,19902049.0,General Lab
+243.595179106,Emergency,NA,Male,2014.0,7C1DB2,Complete Blood Count and Differential,45 - 49,2122.91560233,Emergency,876.0,-21.0573228012,6.0,39815674.0,Micro
+1310.33052854,Emergency,NA,Female,2012.0,2D98203,NA,35 - 39,1665.47615144,Emergency,876.0,30.0348065267,10.0,25631963.0,Encounter Only
+1446.64457151,Inpatient,Laboratory,Male,2016.0,C9B9133,HH ECG Electrocardiogram,45 - 49,2393.36788308,MHAS - Residential,934.0,9.56775622991,6.0,89300625.0,General Lab
+1718.76718473,Emergency,NA,Male,2015.0,102DBC2,NA,35 - 39,249.095803328,Recurring/Series,1264.0,-0.0165205896057,8.0,37587106.0,Encounter Only
+1014.86513618,Inpatient,Mental Health,Female,2015.0,1AB5C92,CT Wrist w/o Contrast Left,35 - 39,2398.15013087,Open Encounter,1499.0,3.05193232326,7.0,91843985.0,Encounter Only
+87.2192325112,Inpatient,Mental Health,Male,2011.0,2D98203,Adult Psychiatry,35 - 39,817.015228688,MHAS - Residential,844.0,38.7596973821,4.0,34221331.0,Encounter Only
+-667.27120848,Emergency,NA,Male,2013.0,977D203,NA,45 - 49,1443.75034355,Emergency,251.0,-43.0531872584,8.0,43294412.0,Encounter Only
+1488.59114752,Outpatient,Laboratory,Male,2014.0,977D203,Surgery,60 - 64,613.930954885,Specimen,1819.0,-12.6067037477,3.0,39174510.0,Encounter Only
+1127.69666153,Emergency,NA,Female,2015.0,102DBC2,XR Tibia/Fibula Right,45 - 49,1140.30424452,Ambulatory,916.0,-8.44953053649,9.0,22083062.0,Encounter Only
+2021.52158933,Other,Laboratory,Female,2017.0,977D203,Calcium Ionized Level,60 - 64,1493.98701791,Inpatient Acute,1109.0,-1.00594381401,6.0,31006937.0,General Lab
+2046.05895748,Recurring,Mental Health,Male,2016.0,1A491A2,Anion Gap,50 - 54,1582.70532171,Recurring/Series,1554.0,-5.52992041734,7.0,88804502.0,Encounter Only
+1420.41589359,Emergency,NA,Female,2013.0,2D98203,Syphilis Serology,35 - 39,1416.7250956,Emergency,1365.0,2.72837365334,8.0,32426953.0,General Lab
+1231.69911567,Inpatient,Mental Health,Male,2014.0,1A491A2,Adult Psychiatry,45 - 49,651.671414069,MHAS - Acute Care,1448.0,45.1031182894,8.0,43294412.0,Encounter Only
+1827.70439172,Inpatient,Laboratory,Male,2016.0,2D98203,xxAutomated Diff,45 - 49,1808.07537814,Specimen,1631.0,23.1991118655,6.0,30357039.0,General Lab
+884.496718604,Inpatient,Diseases of the digestive system,Female,2017.0,2D98203,Chem 7 Hem Careset,35 - 39,1208.96246137,Emergency,766.0,29.1429349545,2.0,85808290.0,Encounter Only
+1706.2283474,Emergency,Laboratory,Male,2016.0,C9B9133,Sodium Level,60 - 64,2199.52868296,Specimen,1611.0,17.4677000833,10.0,38121092.0,General Lab
+2367.85885288,Outpatient,Laboratory,Male,2017.0,C9B9133,ALT,60 - 64,1628.40112567,Inpatient Acute,1631.0,7.292134927,12.0,43901372.0,General Lab
+2385.89893697,Emergency,Laboratory,Female,2016.0,7C1DB2,ALT,35 - 39,1474.64738049,Emergency,1718.0,-13.1034911372,3.0,36561033.0,General Lab
+984.055384866,Inpatient,Laboratory,Male,2017.0,C9B9133,Glucose Random,60 - 64,1758.60123013,Inpatient Acute,1723.0,6.18533764153,3.0,29464770.0,General Lab
+1894.84588324,Inpatient,Laboratory,Male,2017.0,2D98203,xxCoagulation Hold Tube,60 - 64,1683.89232954,Inpatient Acute,1514.0,0.379687284651,6.0,28224980.0,General Lab
+1952.28878137,Other,Laboratory,Male,2016.0,977D203,Chloride Level,30 - 34,1583.7299021,Home Care,1718.0,5.91930388968,3.0,41491822.0,General Lab
+1946.98301697,Recurring,Mental Health,Female,2012.0,102DBC2,CT Wrist w/o Contrast Left,45 - 49,932.940364225,MHAS - Acute Care,1853.0,-9.71490993135,11.0,20461999.0,Encounter Only
+1017.58883916,Emergency,NA,Male,2014.0,2D98203,NA,35 - 39,1133.74831012,Emergency,1429.0,-6.6901024422,12.0,34290077.0,Diagnosis
+1689.69889019,Emergency,Laboratory,Male,2014.0,C9B9133,NA,60 - 64,1259.49722695,Emergency,1109.0,-14.6541425171,3.0,22285096.0,General Lab
+1888.39211441,Recurring,Mental Health,Female,2017.0,2D98203,Hepatitis B Surface Antibody,35 - 39,43.4769461621,MHAS - Acute Care,934.0,29.9447543985,4.0,43294412.0,Diagnosis
+1559.34484331,Outpatient,Rehab,Female,2013.0,2D98203,Urine Culture,35 - 39,312.837189886,Ambulatory,1490.0,-10.1528835596,5.0,42786155.0,Encounter Only
+2425.11584385,Inpatient,Mental Health,Female,2016.0,2D98203,Adult Psychiatry,35 - 39,1035.39060075,MHAS - Acute Care,1429.0,23.7592699722,1.0,36818812.0,Encounter Only
+1601.50718723,Inpatient,Laboratory,Male,2016.0,C9B9133,Urology,60 - 64,1886.80027027,Inpatient Acute,2232.0,5.67590672871,1.0,35738526.0,General Lab
+1387.11816281,Inpatient,Laboratory,Male,2017.0,C9B9133,Hepatitis B Core Antibody Total,60 - 64,1497.99639292,Inpatient Acute,1748.0,10.8813897105,9.0,33284279.0,General Lab
+2399.73553254,Inpatient,Mental Health,Female,2015.0,2D98203,Adult Psychiatry,35 - 39,927.701771689,Open Encounter,243.0,-28.0632925449,5.0,22323452.0,Radiology
+1658.08646039,Inpatient,Laboratory,Male,2017.0,7C1DB2,Bilirubin Total,60 - 64,2067.67607664,Ambulatory,1631.0,-44.9237488796,12.0,20827984.0,General Lab
+1420.82727273,Inpatient,Laboratory,Male,2017.0,7C1DB2,Carbon Dioxide Total,45 - 49,2122.99103287,Inpatient Acute,1490.0,15.6062599723,1.0,37683060.0,Radiology
+777.653355559,Emergency,NA,Male,2016.0,977D203,CT Spine Lumbar w/o Contrast,60 - 64,1365.85300318,Emergency,2076.0,14.5293246796,11.0,92020489.0,Encounter Only
+1468.98532597,Emergency,Laboratory,Male,2016.0,7C1DB2,Thyroid Stimulating Hormone,45 - 49,1904.25007862,Inpatient Acute,34.0,13.2638836265,10.0,37852481.0,General Lab
+2498.93263917,Inpatient,Laboratory,Male,2016.0,C9B9133,Hepatitis B Careset,60 - 64,2171.32487406,Ambulatory,807.0,-7.11793964766,6.0,26175573.0,General Lab
+1918.00709665,Emergency,Mental Health,Male,2009.0,C9B9133,Calcium Ionized Level,45 - 49,1793.95153274,Specimen,1631.0,-34.4519392244,3.0,21515321.0,General Lab
+2040.15282021,Emergency,NA,Male,2017.0,C9B9133,Carbon Dioxide Total,60 - 64,1374.85010231,Emergency,1429.0,24.2994829265,9.0,87224056.0,Encounter Only
+868.410574392,Outpatient,Outpatient,Female,2014.0,2D98203,Acute Hepatitis Careset,35 - 39,1502.35068536,Day Care,766.0,8.29148440054,2.0,39285534.0,Encounter Only
+923.82668185,Inpatient,Mental Health,Female,2015.0,DC2302,Adult Psychiatry,30 - 34,1898.42834273,MHAS - Residential,1612.0,11.0252906195,2.0,27505084.0,Encounter Only
+2337.1701384,Emergency,Laboratory,Male,2016.0,977D203,AST,20 - 24,1369.59888552,Emergency,132.0,-21.2728699503,3.0,85708971.0,General Lab
+432.011747904,Emergency,NA,Male,2013.0,977D203,NA,60 - 64,1447.46720294,Emergency,1429.0,-0.396935589337,5.0,45082180.0,Encounter Only
+892.081018889,Emergency,NA,Male,2012.0,C9B9133,NA,60 - 64,-293.722126694,Emergency,1429.0,22.3494488019,6.0,37657794.0,Encounter Only
+1541.08487564,Emergency,Laboratory,Male,2016.0,977D203,NA,45 - 49,1860.78093225,MHAS - Acute Care,1582.0,-3.80477756059,3.0,84937891.0,General Lab
+495.110358416,Emergency,"Child, Youth & Family",Female,2011.0,2D98203,Chloride Level,25 - 29,631.88200379,Emergency,1631.0,11.9799340629,6.0,36232656.0,Encounter Only
+673.770922508,Outpatient,Laboratory,Male,2012.0,9A51A2,Medical Imaging,60 - 64,463.037799145,Ambulatory,916.0,45.6839447946,9.0,39174510.0,Encounter Only
+1372.62126181,Recurring,Mental Health,Female,2011.0,2D98203,Hepatitis C Antibody,25 - 29,1556.48881123,Open Encounter,1631.0,-1.11099657231,5.0,41113956.0,Radiology
+339.552063956,Inpatient,Outpatient,Male,2013.0,C9B9133,Adult Psychiatry,60 - 64,882.073545607,Inpatient Acute,718.0,9.19751444377,8.0,37874802.0,General Lab
+964.155722569,Inpatient,NA,Male,2014.0,C9B9133,Adult Psychiatry,45 - 49,921.371374294,MHAS - Acute Care,1983.0,46.5890303912,12.0,88451864.0,Encounter Only
+326.997076487,Emergency,Mental Health,Female,2012.0,C9B9133,Complete Blood Count and Differential,60 - 64,1117.03969024,Day Care,34.0,-6.2432643822,7.0,40058241.0,Encounter Only
+1334.28709706,Outpatient,Outpatient,Female,2016.0,8A1A543,XR Chest AP/PA 1 View,25 - 29,2179.06450014,Ambulatory,227.0,100.268260146,10.0,24683873.0,Encounter Only
+822.542050402,Emergency,Laboratory,Male,2017.0,C9B9133,xxCoagulation Hold Tube,60 - 64,926.700089295,Inpatient Acute,520.0,25.2356762586,1.0,38121092.0,General Lab
+97.9586607447,Inpatient,Mental Health,Male,2015.0,1AB5C92,Urine Culture,20 - 24,743.861096153,Open Encounter,903.0,-47.0479524106,4.0,36232656.0,Encounter Only
+432.551640327,Outpatient,NA,Female,2014.0,1AB5C92,NA,35 - 39,1845.5632227,Inpatient Acute,1408.0,-97.7222126523,6.0,90640891.0,Encounter Only
+393.652438344,Outpatient,Outpatient,Male,2014.0,1A491A2,HH ECG Electrocardiogram,35 - 39,1052.67733917,Ambulatory,1448.0,29.1420412633,4.0,36232656.0,Encounter Only
+935.957627653,Outpatient,Diagnostic Imaging,Female,2013.0,977D203,Urology,60 - 64,1512.99295954,Day Care,2076.0,-17.9011737834,11.0,85807367.0,Encounter Only
+1104.52757266,Recurring,Mental Health,Male,2013.0,977D203,Adult Psychiatry,45 - 49,-583.967320081,MHAS - Acute Care,1554.0,-2.25979241418,12.0,25631963.0,Encounter Only
+1438.80700141,Emergency,Laboratory,Female,2016.0,1A491A2,Clinical Teaching Unit,25 - 29,2382.22636062,Inpatient Acute,132.0,-28.2008387771,6.0,89300625.0,Radiology
+723.605151673,Outpatient,Outpatient,Male,2014.0,1AB5C92,Maternity,60 - 64,1380.01213824,Day Care,1810.0,56.6841149132,1.0,86996036.0,Encounter Only
+821.313938388,Inpatient,Mental Health,Male,2014.0,977D203,Obstetrics,30 - 34,1370.96795317,Inpatient Acute,755.0,54.1061213911,2.0,44186773.0,Encounter Only
+1729.56942827,Other,Mental Health,Male,2016.0,C9B9133,Hepatitis B Surface Antigen,60 - 64,1660.36244452,Specimen,766.0,17.2439322165,1.0,27512904.0,General Lab
+1521.60629415,Inpatient,Mental Health,Male,2015.0,977D203,MRI Spine Lumbar w/o Contrast,45 - 49,1014.87557465,Open Encounter,916.0,26.1606453475,8.0,22212730.0,Encounter Only
+1237.71335924,Inpatient,Mental Health,Male,2011.0,2D98203,NA,45 - 49,1137.64175486,Recurring/Series,934.0,26.4599404833,8.0,25912238.0,Encounter Only
+1808.35861023,Inpatient,Outpatient,Male,2012.0,977D203,HIV Ag/Ab Combination Assay,35 - 39,926.974361629,MHAS - Residential,1673.0,5.97316804558,5.0,23333686.0,Encounter Only
+52.6184080986,Emergency,NA,Male,2016.0,9A51A2,Creatinine,35 - 39,898.664797548,Emergency,844.0,2.43303525706,2.0,29723724.0,Encounter Only
+2416.7601731,Inpatient,Laboratory,Male,2016.0,C9B9133,Complete Blood Count and Differential,60 - 64,1333.58415702,Specimen,520.0,-9.94297336315,3.0,20461999.0,General Lab
+1493.61849667,Inpatient,Laboratory,Male,2016.0,C9B9133,Albumin Level,45 - 49,2093.45400007,Inpatient Acute,1631.0,-12.2120319177,1.0,87456582.0,General Lab
+719.055645433,Inpatient,Laboratory,Male,2017.0,7C1DB2,Colonoscopy (FIT Positive Yes CSP) SN,60 - 64,2452.71930472,Inpatient Acute,1631.0,-0.0159422003481,6.0,87456582.0,General Lab
+1098.65195794,Emergency,NA,Male,2015.0,8A1A543,Chloride Level,45 - 49,628.253597034,Emergency,1429.0,1.93468519493,10.0,42528226.0,Encounter Only
+2747.8530212,Inpatient,Laboratory,Male,2016.0,977D203,ALT,60 - 64,1817.25471159,Inpatient Acute,1631.0,-35.4650384531,6.0,89323079.0,General Lab
+510.255962525,Emergency,NA,Male,2011.0,7C1DB2,Complete Blood Count and Differential,45 - 49,334.721161134,Emergency,844.0,9.4279356968,6.0,34667311.0,Encounter Only
+1691.9667453,Emergency,NA,Male,2007.0,C9B9133,NA,35 - 39,1608.11123773,Emergency,916.0,-9.85935346526,12.0,27512904.0,Encounter Only
+2031.5031566,Emergency,Laboratory,Male,2016.0,C9B9133,HH ECG Electrocardiogram,45 - 49,1710.9484462,Inpatient Acute,1448.0,-16.2719439701,3.0,36191729.0,General Lab
+2998.25044282,Inpatient,Medicine,Male,2017.0,977D203,Complete Blood Count and Differential,45 - 49,2258.04033505,Day Care,671.0,-27.0104024857,3.0,90640891.0,General Lab
+439.576779046,Recurring,Mental Health,Female,2014.0,2D98203,Hepatitis A Antibody IgG,45 - 49,976.05282925,MHAS - Residential,1582.0,-7.1036955264,5.0,21515321.0,Radiology
+974.37709346,Emergency,Diseases of the digestive system,Female,2014.0,8A1A543,Syphilis Serology,35 - 39,1319.04327668,Emergency,2125.0,-33.871631365,5.0,44186773.0,Encounter Only
+1434.96269732,Emergency,Diagnostic Imaging,Female,2016.0,2D98203,XR Chest AP/PA 1 View,35 - 39,1333.37770244,Emergency,1582.0,10.2977309138,11.0,23860943.0,Radiology
+1125.18756914,Emergency,NA,Male,2014.0,2D98203,Potassium Level,50 - 54,2081.62617017,Ambulatory,1429.0,10.7956071952,6.0,42528226.0,Encounter Only
+2121.2197178,Emergency,Laboratory,Male,2016.0,977D203,Confirmatory Hepatitis C Antibody,45 - 49,1650.69909217,Ambulatory,844.0,-2.09958893554,6.0,90640891.0,General Lab
+1121.17006046,Emergency,NA,Male,2017.0,2D98203,Obstetrics,35 - 39,1743.92958146,Emergency,878.0,-0.601151645426,8.0,25133798.0,Encounter Only
+992.878223824,Outpatient,"Child, Youth & Family",Female,2013.0,1AB5C92,Acute Hepatitis Careset,35 - 39,1375.79188094,MHAS - Residential,1448.0,15.1932835967,1.0,47202901.0,Encounter Only
+1391.92916883,Emergency,Laboratory,Male,2016.0,C9B9133,Lipase Level,60 - 64,2317.36450112,Inpatient Acute,1631.0,-29.4376495829,1.0,87224056.0,General Lab
+-50.5223347726,Inpatient,Mental Health,Female,2014.0,7C1DB2,NA,50 - 54,66.7475790222,MHAS - Residential,167.0,-18.732712231,8.0,22751968.0,Encounter Only
+1949.16703673,Emergency,Diagnostic Imaging,Female,2016.0,2D98203,Carbon Dioxide Total,35 - 39,2442.98936877,Emergency,1718.0,-24.8894128274,2.0,86996036.0,Surgery
+2648.64855765,Other,Laboratory,Male,2016.0,7C1DB2,MRI Spine Lumbar w/o Contrast,45 - 49,1548.97149662,Specimen,1631.0,2.87576413099,6.0,28264626.0,General Lab
+2024.60412476,Home Care,Laboratory,Female,2016.0,2D98203,GGT,60 - 64,1818.99850092,Recurring/Series,1612.0,-32.3212926646,2.0,40734987.0,General Lab
+1292.02190033,Inpatient,Diagnostic Imaging,Female,2016.0,2D98203,Protein Electrophoresis Careset,35 - 39,1330.08697815,Emergency,1718.0,-19.7545559705,4.0,37852481.0,Radiology
+1033.49125044,Outpatient,NA,Female,2013.0,102DBC2,XR Chest 2 Views,45 - 49,-54.5582395693,Ambulatory,2223.0,-2.85002189164,11.0,85325766.0,Encounter Only
+1239.91818183,Outpatient,Outpatient,Female,2017.0,1AB5C92,Medicine Hospitalist,60 - 64,601.525337883,MHAS - Residential,227.0,-20.0656595905,12.0,42528226.0,Encounter Only
+1814.35478666,Emergency,Mental Health,Male,2013.0,9A51A2,NA,35 - 39,708.543378966,Emergency,916.0,1.20567279061,6.0,30575337.0,Encounter Only
+2297.63050608,Emergency,Outpatient,Male,2017.0,1A491A2,Urine Culture,35 - 39,2456.7700497,Emergency,167.0,-6.79677131497,2.0,90629691.0,Encounter Only
+1744.18450768,Inpatient,Laboratory,Male,2017.0,977D203,Maternity,45 - 49,2157.63556784,MHAS - Residential,601.0,-34.7366203159,1.0,90640891.0,Radiology
+454.620200737,Recurring,Mental Health,Male,2014.0,977D203,Adult Psychiatry,50 - 54,58.7343778555,MHAS - Residential,1487.0,7.08171069749,4.0,31006937.0,General Lab
+-363.12344994,Inpatient,Mental Health,Male,2014.0,7C1DB2,ALT,35 - 39,1286.66590721,MHAS - Residential,1554.0,4.06301255686,5.0,40405740.0,Encounter Only
+1113.4272351,Outpatient,NA,Male,2013.0,8A1A543,NA,45 - 49,1167.99306727,Specimen,483.0,8.44874776488,9.0,29334171.0,Encounter Only
+1947.21181943,Emergency,Laboratory,Female,2016.0,7C1DB2,Opthamology,25 - 29,1666.47417212,Specimen,971.0,51.2590913037,10.0,47136843.0,Micro
+1227.46099523,Inpatient,Laboratory,Male,2016.0,C9B9133,GGT,45 - 49,2347.61056708,Inpatient Acute,513.0,-10.427077786,6.0,34221331.0,Surgery
+67.3658825389,Other,NA,Female,2009.0,C9B9133,NA,50 - 54,1202.69891123,Ambulatory,2230.0,15.0992264377,8.0,29798796.0,Encounter Only
+73.9683691873,Emergency,NA,Female,2012.0,2D98203,Clinical Decision Unit,30 - 34,1755.66286499,Inpatient Acute,922.0,-2.50143524348,7.0,28892619.0,Encounter Only
+1655.39091161,Inpatient,Mental Health,Male,2012.0,977D203,xxProtein Electrophoresis,20 - 24,1276.41469659,MHAS - Acute Care,1448.0,-0.215102563444,4.0,85234680.0,Encounter Only
+748.989301919,Emergency,NA,Male,2015.0,9A51A2,NA,30 - 34,1245.61632556,Emergency,2119.0,7.65388266612,5.0,86351658.0,Encounter Only
+-281.517430467,Inpatient,NA,Male,2015.0,102DBC2,xxMicroscopic Urinalysis,60 - 64,1138.2831843,Emergency,876.0,22.7126047891,11.0,20827984.0,Encounter Only
+1825.46680956,Inpatient,Laboratory,Male,2017.0,C9B9133,HH ECG Electrocardiogram,60 - 64,1539.06702139,Inpatient Acute,1109.0,-7.35409468232,1.0,19818896.0,General Lab
+1261.39251994,Outpatient,Outpatient,Female,2012.0,C9B9133,"K42.9,  Umbilical hernia without obs or gangrene",60 - 64,1591.33516125,Ambulatory,755.0,4.93912866263,3.0,90629691.0,Encounter Only
+2274.98105322,Other,Laboratory,Male,2016.0,977D203,xxCD4,30 - 34,1553.9721462,Specimen,1181.0,31.3371867727,4.0,85733822.0,General Lab
+1545.95004838,Inpatient,Laboratory,Male,2017.0,102DBC2,Creatinine,60 - 64,1875.09544608,Inpatient Acute,1611.0,-3.19735874645,1.0,87256532.0,General Lab
+1643.42848174,Inpatient,Outpatient,Male,2013.0,8A1A543,Laboratory,20 - 24,1397.07824483,Ambulatory,1448.0,-19.0156190902,11.0,85234680.0,Encounter Only
+2733.10541891,Emergency,Laboratory,Male,2016.0,2D98203,Medicine (Unspecified),35 - 39,2283.75210899,Inpatient Acute,1365.0,-8.79356011175,1.0,30333420.0,General Lab
+1920.89188857,Inpatient,Medicine,Male,2016.0,7C1DB2,Hepatitis A Antibody IgM,60 - 64,2281.90805606,Inpatient Acute,388.0,4.6009558047,6.0,31296668.0,General Lab
+623.571721205,Inpatient,Mental Health,Male,2011.0,8A1A543,Adult Psychiatry,25 - 29,985.583484154,MHAS - Acute Care,1582.0,51.0363866432,4.0,37119780.0,Encounter Only
+1305.87411528,Recurring,Rehab,Female,2014.0,977D203,Medical Assessment,45 - 49,1516.92181223,MHAS - Acute Care,1526.0,15.6780442995,9.0,88162301.0,Encounter Only
+234.198007224,Emergency,NA,Male,2012.0,977D203,Albumin Level,30 - 34,1515.65652954,Ambulatory,1109.0,-5.86418712245,4.0,21251468.0,Encounter Only
+442.42271972,Inpatient,Mental Health,Male,2015.0,102DBC2,"K42.9,  Umbilical hernia without obs or gangrene",35 - 39,844.833541075,MHAS - Acute Care,139.0,14.9998017982,3.0,34289143.0,Encounter Only
+677.264127385,Outpatient,Outpatient,Male,2012.0,8A1A543,Acute Rehabilitation,45 - 49,850.828525388,Emergency,766.0,10.0453989629,11.0,29052699.0,Encounter Only
+770.081487524,Outpatient,NA,Male,2016.0,977D203,Medical Imaging,60 - 64,412.238264648,Ambulatory,844.0,13.8323778752,5.0,35278510.0,Encounter Only
+-74.159683692,Emergency,Outpatient,Male,2016.0,1A491A2,NA,45 - 49,651.989418228,Ambulatory,1657.0,-16.9977909719,1.0,20811117.0,Encounter Only
+1402.42279572,Emergency,NA,Male,2015.0,C9B9133,Laboratory,35 - 39,2146.24394823,Emergency,1611.0,3.85687822782,4.0,33284279.0,Encounter Only
+2544.55888859,Inpatient,Laboratory,Male,2016.0,DC2302,Protein Total,45 - 49,1665.17857334,Emergency,1723.0,-15.2704235171,6.0,52766112.0,General Lab
+1206.75678058,Other,Outpatient,Male,2013.0,2D98203,Outpatient,50 - 54,1624.57841572,Ambulatory,1514.0,6.70440137959,10.0,37657794.0,Encounter Only
+2523.62596627,Inpatient,Laboratory,Male,2016.0,7C1DB2,xxAutomated Diff,35 - 39,2943.27475178,Inpatient Acute,876.0,-16.0664191784,1.0,29483966.0,General Lab
+1662.64522188,Other,Mental Health,Female,2011.0,1A491A2,Albumin Level,50 - 54,1242.80857338,Home Care,755.0,543.562419309,4.0,23333686.0,Radiology
+951.048812488,Inpatient,Mental Health,Female,2011.0,1AB5C92,Adult Psychiatry,25 - 29,2462.49280521,Open Encounter,1032.0,-22.1858342007,6.0,41183554.0,Encounter Only
+1935.12949374,Inpatient,Laboratory,Male,2016.0,977D203,xxCD4,45 - 49,1237.66296559,Ambulatory,1631.0,-11.2203596567,6.0,90640891.0,General Lab
+398.508821968,Other,Laboratory,Male,2016.0,7C1DB2,Alkaline Phosphatase,60 - 64,2420.51514176,Specimen,1773.0,-2.11265109428,6.0,90640891.0,General Lab
+-110.693002328,Inpatient,Diseases of the digestive system,Male,2016.0,1A491A2,Medical Imaging,60 - 64,1042.99644471,Inpatient Acute,844.0,67.4526968653,5.0,39955884.0,Encounter Only
+393.233447273,Recurring,Diagnostic Imaging,Male,2015.0,1AB5C92,MRI Spine Lumbar w/o Contrast,30 - 34,330.092755339,MHAS - Acute Care,34.0,226.292782088,5.0,40274284.0,Micro
+818.53544064,Inpatient,Mental Health,Male,2013.0,102DBC2,Glucose Random,20 - 24,1284.30716823,MHAS - Residential,2125.0,13.5555783968,4.0,87290407.0,Encounter Only
+1557.90720665,Emergency,Diagnostic Imaging,Male,2011.0,7C1DB2,Bilirubin Total,45 - 49,859.976995445,Ambulatory,935.0,-14.7467286351,9.0,34221331.0,General Lab
+2419.962245,Emergency,Laboratory,Male,2016.0,C9B9133,ALT,45 - 49,3135.8644769,Home Care,1631.0,-28.8514105084,3.0,87456582.0,General Lab
+2064.81883319,Inpatient,Mental Health,Female,2016.0,1A491A2,Enterology,35 - 39,1144.90564902,MHAS - Residential,2116.0,-7.99641107964,12.0,91674350.0,Encounter Only
+420.554908588,Outpatient,Outpatient,Male,2012.0,C9B9133,Pre-Admission Clinic,60 - 64,507.307685837,Specimen,483.0,5.43233697758,4.0,33479887.0,Encounter Only
+548.367262708,Outpatient,Laboratory,Male,2012.0,2D98203,Medical Imaging,60 - 64,757.954131073,Ambulatory,1977.0,-29.0712717356,6.0,92016369.0,Encounter Only
+2740.09220738,Emergency,NA,Male,2012.0,102DBC2,NA,25 - 29,1920.31562068,Emergency,878.0,-10.2184217017,5.0,42018847.0,Encounter Only
+521.94967798,Inpatient,Mental Health,Female,2012.0,977D203,Medicine (Unspecified),25 - 29,-259.774828338,MHAS - Acute Care,2116.0,64.0916842963,2.0,23424929.0,Encounter Only
+754.590676613,Recurring,NA,Male,2011.0,2D98203,Calcium Ionized Level,30 - 34,1699.90996527,Emergency,1170.0,-9.78281843605,7.0,28224980.0,Encounter Only
+904.798800465,Other,Mental Health,Male,2017.0,DC2302,Medicine Family Practice,25 - 29,1977.21955582,Home Care,639.0,462.533765804,8.0,42711950.0,Encounter Only
+1716.17908418,Emergency,Laboratory,Male,2017.0,7C1DB2,Calcium Ionized Level,45 - 49,2764.54397839,Specimen,1181.0,-44.3691429444,8.0,87456582.0,General Lab
+990.745567806,Outpatient,Outpatient,Male,2012.0,2D98203,Magnesium Level,60 - 64,673.995334364,Emergency,755.0,29.4655301518,8.0,27196698.0,Encounter Only
+1012.775052,Inpatient,Diagnostic Imaging,Female,2012.0,DC2302,SI ED Basic Careset,25 - 29,2107.91347494,Inpatient Acute,483.0,868.352584704,8.0,41160574.0,Micro
+358.086457564,Recurring,"Child, Youth & Family",Male,2011.0,DC2302,XR Wrist and Scaphoid Left,35 - 39,2140.19340406,MHAS - Residential,1631.0,-7.91171616637,10.0,22979819.0,Encounter Only
+2350.07148395,Inpatient,Laboratory,Male,2016.0,C9B9133,Clinical Teaching Unit,60 - 64,830.475930592,Inpatient Acute,935.0,-7.0777044004,3.0,23424929.0,Radiology
+419.8016207,Inpatient,Mental Health,Male,2014.0,977D203,Adult Psychiatry,45 - 49,1634.65423393,MHAS - Acute Care,1554.0,33.0873031796,4.0,29723724.0,Encounter Only
+2228.07984278,Outpatient,Outpatient,Male,2016.0,7C1DB2,xxMicroscopic Urinalysis,35 - 39,1414.85568997,Ambulatory,1429.0,15.2238598412,4.0,42711950.0,Encounter Only
+1489.69672226,Inpatient,Diseases of the digestive system,Male,2012.0,1A491A2,xxCD4,60 - 64,1414.34797464,Specimen,1720.0,32.2959275036,2.0,19818896.0,Encounter Only
+263.236483087,Outpatient,Outpatient,Female,2014.0,1A491A2,Opthamology,35 - 39,1352.91693004,Inpatient Acute,139.0,6.25443637679,1.0,43294412.0,Encounter Only
+981.764560322,Emergency,NA,Male,2014.0,977D203,NA,50 - 54,1444.47942693,Specimen,1032.0,0.690439271845,3.0,37683060.0,Encounter Only
+2014.42574019,Emergency,"Child, Youth & Family",Female,2012.0,977D203,NA,35 - 39,1977.96685746,Ambulatory,1673.0,-11.3623070715,10.0,19818896.0,Encounter Only
+1731.50935736,Inpatient,Diagnostic Imaging,Male,2016.0,C9B9133,xxProtein Electrophoresis,45 - 49,2568.90449115,Inpatient Acute,1514.0,-7.36635948475,6.0,90640891.0,General Lab
+1785.8682423,Inpatient,Mental Health,Female,2014.0,2D98203,Magnesium Level,35 - 39,1511.79328983,MHAS - Acute Care,1554.0,-9.29173963517,6.0,45082180.0,Encounter Only
+1878.58472915,Inpatient,Mental Health,Male,2013.0,2D98203,Adult Psychiatry,25 - 29,-1098.32441157,MHAS - Residential,916.0,46.6193898165,2.0,42230255.0,Micro
+990.713823191,Emergency,Laboratory,Female,2016.0,C9B9133,Adult Psychiatry,45 - 49,1757.17561756,MHAS - Residential,935.0,-0.542831562642,1.0,92068717.0,Radiology
+983.770562229,Outpatient,Medicine,Male,2012.0,C9B9133,Anion Gap,60 - 64,1726.26635242,Inpatient Acute,1490.0,-46.2278017459,2.0,44110092.0,Encounter Only
+851.878752943,Recurring,Mental Health,Female,2017.0,2D98203,AST,25 - 29,1075.71370727,MHAS - Acute Care,483.0,13.6677848932,3.0,41652293.0,Encounter Only
+754.137313371,Emergency,NA,Male,2014.0,977D203,NA,45 - 49,609.455607096,Emergency,388.0,2.38961176274,12.0,30575337.0,Encounter Only
+308.826187049,Inpatient,Mental Health,Male,2015.0,9A51A2,CT Wrist w/o Contrast Left,30 - 34,1146.66324505,MHAS - Acute Care,614.0,73.2786260003,6.0,41113956.0,Encounter Only
+1172.62118563,Outpatient,Mental Health,Male,2017.0,102DBC2,Hepatitis B Surface Antibody,45 - 49,1170.87014936,Inpatient Acute,227.0,30.2186529961,6.0,28224980.0,Encounter Only
+499.252596404,Inpatient,NA,Male,2013.0,7C1DB2,XR Tibia/Fibula Right,60 - 64,1073.50229406,Emergency,1819.0,17.6900124665,1.0,34290077.0,Encounter Only
+1433.81462387,Home Care,Laboratory,Male,2016.0,C9B9133,Potassium Level,60 - 64,1794.54969716,Inpatient Acute,1109.0,-0.103132980658,1.0,87256532.0,Radiology
+247.575581119,Emergency,NA,Male,2011.0,1A491A2,Macroscopic Urinalysis,25 - 29,394.188187124,Ambulatory,1429.0,39.3878620872,6.0,91976820.0,Encounter Only
+-611.953581738,Outpatient,Diagnostic Imaging,Male,2012.0,1AB5C92,Laboratory,60 - 64,1111.68277715,Ambulatory,2190.0,44.6121496847,12.0,41491822.0,Encounter Only
+798.935575254,Inpatient,"Child, Youth & Family",Male,2007.0,C9B9133,XR Chest AP/PA 1 View,50 - 54,1845.92932073,Specimen,182.0,-14.3428055086,12.0,41227893.0,Encounter Only
+2528.64211342,Emergency,Mental Health,Male,2017.0,C9B9133,Carbon Dioxide Total,60 - 64,1914.97758919,Inpatient Acute,520.0,8.54729091528,1.0,30333420.0,General Lab
+2340.04338331,Other,Laboratory,Male,2017.0,C9B9133,Glucose Random,60 - 64,1402.64767573,Inpatient Acute,1631.0,11.6786732717,1.0,40274284.0,Encounter Only
+1611.4236486,Emergency,Laboratory,Female,2013.0,2D98203,Maternity,30 - 34,2470.53590325,Emergency,2119.0,-9.06211710298,10.0,30575337.0,General Lab
+1329.52032354,Emergency,NA,Male,2017.0,2D98203,NA,50 - 54,800.127136039,Home Care,1819.0,-4.47507614054,4.0,40274284.0,Encounter Only
+225.121851478,Outpatient,Outpatient,Male,2012.0,C9B9133,Medical Imaging,35 - 39,1082.2088929,Ambulatory,1773.0,31.3647781114,4.0,22751968.0,Encounter Only
+1810.27679826,Emergency,Laboratory,Female,2016.0,8A1A543,Chem 7 Hem Careset,35 - 39,2882.09866523,Emergency,1718.0,2.74193773463,10.0,22323452.0,General Lab
+1916.19208559,Emergency,Mental Health,Female,2016.0,8A1A543,Hepatitis B Surface Antibody,35 - 39,2133.18942733,Inpatient Acute,874.0,28.7807931491,10.0,22323452.0,General Lab
+990.975460244,Emergency,NA,Female,2012.0,102DBC2,Albumin Level,60 - 64,190.777710944,Emergency,595.0,-12.686278952,2.0,30575337.0,Encounter Only
+540.394195997,Recurring,Mental Health,Female,2012.0,102DBC2,Hepatitis B Careset,50 - 54,-30.6925433198,MHAS - Acute Care,2038.0,8.38986904294,6.0,44098621.0,Encounter Only
+1091.86827153,Emergency,NA,Male,2014.0,102DBC2,NA,30 - 34,644.0684668,Emergency,947.0,19.0112776431,4.0,40734987.0,Encounter Only
+1272.26475505,Recurring,Mental Health,Male,2010.0,DC2302,MRI Spine Lumbar w/o Contrast,25 - 29,1386.91146726,MHAS - Acute Care,2116.0,202.814557875,6.0,22285096.0,Surgery
+1450.21387259,Emergency,NA,Male,2013.0,1AB5C92,NA,35 - 39,1161.98156095,Emergency,1429.0,-9.25471781694,8.0,87224056.0,Diagnosis
+296.468198737,Emergency,NA,Female,2012.0,2D98203,Medicine (Unspecified),60 - 64,528.533463107,Open Encounter,876.0,-17.1844937549,5.0,35488213.0,Encounter Only
+1895.96215866,Home Care,Outpatient,Female,2014.0,977D203,GGT,35 - 39,1554.37871675,Emergency,807.0,13.5419409674,1.0,35317685.0,Encounter Only
+2358.43541838,Other,Laboratory,Male,2016.0,102DBC2,Clinical Decision Unit,45 - 49,1451.83749454,Specimen,1109.0,-21.6993664746,3.0,43901372.0,General Lab
+-346.914321648,Recurring,Mental Health,Male,2012.0,9A51A2,Medicine (Unspecified),25 - 29,1232.80099507,MHAS - Acute Care,2116.0,41.3887371104,2.0,32215696.0,Encounter Only
+1171.5792909,Emergency,NA,Male,2014.0,102DBC2,Hepatitis A Antibody IgM,35 - 39,1112.19967099,Emergency,595.0,36.1297621597,10.0,31296668.0,Encounter Only
+1412.65843812,Emergency,Laboratory,Female,2016.0,2D98203,Carbon Dioxide Total,45 - 49,1799.14466785,Inpatient Acute,1718.0,19.4573830139,4.0,88804502.0,General Lab
+1852.48687317,Emergency,NA,Male,2011.0,2D98203,CT Wrist w/o Contrast Left,25 - 29,2123.01845077,Emergency,934.0,-5.9196588342,10.0,27196698.0,General Lab
+774.093174431,Outpatient,Surgery,Female,2011.0,C9B9133,Coag Panel Careset,60 - 64,-38.8970298096,Ambulatory,1773.0,-2.34481810806,5.0,36791419.0,Encounter Only
+1303.90233072,Emergency,Laboratory,Female,2016.0,2D98203,Chem 7 Hem Careset,50 - 54,1047.82532293,Ambulatory,132.0,-5.59566690737,10.0,20015383.0,Radiology
+1400.26724963,Outpatient,NA,Male,2014.0,102DBC2,HH ECG Electrocardiogram,35 - 39,520.435418454,Emergency,227.0,63.4187343606,8.0,29334171.0,Encounter Only
+863.858277632,Emergency,Diseases of the digestive system,Female,2016.0,1AB5C92,CT Spine Lumbar w/o Contrast,60 - 64,2049.40723041,Home Care,390.0,14.9164698584,11.0,35488213.0,Radiology
+811.005680882,Outpatient,NA,Male,2013.0,102DBC2,Maternity,50 - 54,64.4355602338,Ambulatory,1514.0,6.71289683631,4.0,37119780.0,Encounter Only
+673.298047891,Inpatient,Mental Health,Male,2011.0,7C1DB2,NA,60 - 64,2002.11281335,Open Encounter,2011.0,-39.0305715044,8.0,30060555.0,Encounter Only
+1321.91675502,Other,"Child, Youth & Family",Female,2009.0,1A491A2,Medicine (Unspecified),30 - 34,693.501571806,Inpatient Acute,1499.0,211.541637397,7.0,88804502.0,General Lab
+1286.78475745,Inpatient,Laboratory,Male,2016.0,977D203,Magnesium Level,45 - 49,1848.40366176,Emergency,2190.0,27.3579518356,1.0,30333420.0,General Lab
+583.048343134,Inpatient,Medicine,Male,2014.0,977D203,Medical Imaging,45 - 49,-110.183663267,Open Encounter,1582.0,0.202018094166,12.0,29224331.0,Encounter Only
+2052.715218,Other,Laboratory,Male,2016.0,977D203,Medical Assessment,60 - 64,1774.67759545,Inpatient Acute,513.0,2.7332311307,1.0,20461999.0,General Lab
+1387.15415092,Inpatient,Laboratory,Male,2017.0,C9B9133,Calcium Ionized Level,60 - 64,2220.64617042,Inpatient Acute,520.0,9.77645774904,10.0,90640891.0,General Lab
+1543.46331484,Other,Laboratory,Male,2017.0,977D203,SI ED Basic Careset,60 - 64,2567.86332866,Inpatient Acute,935.0,54.9934696561,10.0,29464770.0,General Lab
+2317.69265673,Emergency,NA,Female,2017.0,2D98203,Calcium Level,35 - 39,558.853778713,Specimen,1765.0,6.31679219233,2.0,33479887.0,Encounter Only
+1787.45444328,Inpatient,NA,Male,2016.0,7C1DB2,Carbon Dioxide Total,45 - 49,1733.06722405,Specimen,1631.0,31.4455927783,1.0,90640891.0,General Lab
+-365.059533593,Other,NA,Female,2015.0,2D98203,Lactate Level,35 - 39,1470.73421165,Ambulatory,2035.0,34.778904279,8.0,19818896.0,Encounter Only
+1281.46271226,Inpatient,Mental Health,Male,2012.0,C9B9133,Syphilis Serology,20 - 24,1604.00772768,Open Encounter,844.0,10.6648922454,2.0,23333686.0,Encounter Only
+1846.62541729,Inpatient,Medicine,Male,2016.0,977D203,Troponin T High Sensitivity,45 - 49,1649.55892275,Inpatient Acute,916.0,7.02939786294,1.0,39815674.0,General Lab
+212.29589765,Emergency,NA,Female,2015.0,C9B9133,Laboratory,60 - 64,964.11436197,Emergency,755.0,43.5819345075,2.0,33446252.0,Encounter Only
+391.844748278,Emergency,NA,Male,2015.0,2D98203,NA,35 - 39,1544.30196423,Emergency,1514.0,-5.22090701833,1.0,84937891.0,Diagnosis
+989.600969467,Inpatient,Mental Health,Female,2011.0,2D98203,Enterology,45 - 49,466.184215836,MHAS - Acute Care,2230.0,-1.21489380381,10.0,40405740.0,Encounter Only
+1408.63488091,Emergency,Laboratory,Male,2016.0,8A1A543,Coag Panel Careset,45 - 49,2162.64618944,Emergency,1631.0,36.9831276119,6.0,87456582.0,General Lab
+261.767998375,Inpatient,Mental Health,Male,2015.0,977D203,Adult Psychiatry,35 - 39,1131.68084473,Open Encounter,903.0,3.63526240686,9.0,86008853.0,Encounter Only
+1268.45824357,Home Care,Outpatient,Male,2016.0,2D98203,NA,35 - 39,685.531719073,Emergency,1448.0,5.39820526583,1.0,40274284.0,Encounter Only
+1151.64403187,Outpatient,NA,Male,2014.0,102DBC2,Medical Imaging,30 - 34,1039.8176039,Emergency,1429.0,30.4006119985,4.0,20731114.0,Encounter Only
+418.888347884,Inpatient,Mental Health,Male,2014.0,7C1DB2,Adult Psychiatry,35 - 39,506.040134176,Open Encounter,1181.0,30.3814377352,4.0,22083062.0,Encounter Only
+2333.65425864,Emergency,NA,Male,2013.0,C9B9133,Lipase Level,60 - 64,1132.81534071,Specimen,275.0,20.4479394187,12.0,36232656.0,Encounter Only
+2054.45877713,Emergency,Laboratory,Female,2016.0,7C1DB2,HH ECG Electrocardiogram,60 - 64,851.394799252,Emergency,1631.0,8.62096303614,1.0,90640891.0,General Lab
+219.302288555,Outpatient,Outpatient,Male,2014.0,102DBC2,XR Chest AP/PA 1 View,25 - 29,1562.50966942,Ambulatory,1499.0,9.23580732564,1.0,42904960.0,Encounter Only
+1917.36904184,Recurring,Laboratory,Male,2016.0,977D203,Hepatitis C Antibody,35 - 39,1645.12538357,Specimen,1977.0,-20.4434014172,1.0,34667311.0,General Lab
+1949.72271938,Outpatient,NA,Male,2012.0,2D98203,Hepatitis B Surface Antibody,35 - 39,1115.35383871,Ambulatory,167.0,18.0038289504,1.0,40058241.0,Encounter Only
+933.593155141,Inpatient,"Child, Youth & Family",Female,2007.0,2D98203,Protein Total,35 - 39,1608.09422883,Open Encounter,1499.0,3462.56785215,3.0,84445581.0,Surgery
+2433.51529366,Recurring,Outpatient,Male,2017.0,8A1A543,Hepatitis B Careset,50 - 54,3125.49735186,Specimen,34.0,546.295151791,7.0,28264626.0,General Lab
+1426.15006193,Emergency,NA,Male,2012.0,9A51A2,NA,30 - 34,1453.32568554,Emergency,209.0,-11.1402510093,8.0,42786155.0,Encounter Only
+-168.051632354,Outpatient,Surgery,Male,2015.0,C9B9133,Bilirubin Total,35 - 39,1062.62196247,Ambulatory,2035.0,-5.83642379722,4.0,91843985.0,Encounter Only
+1084.38116153,Outpatient,Outpatient,Male,2017.0,2D98203,Laboratory,60 - 64,592.756266256,Ambulatory,1612.0,15.3671120236,11.0,85331556.0,Encounter Only
+462.609724268,Emergency,Diseases of the digestive system,Female,2011.0,102DBC2,Thyroid Stimulating Hormone,25 - 29,1135.17429765,Emergency,1429.0,-8.0396026508,10.0,42143083.0,Encounter Only
+1045.30989584,Recurring,Mental Health,Male,2012.0,977D203,Hepatitis B Surface Antibody,35 - 39,-380.382180203,MHAS - Acute Care,1429.0,62.6158281908,11.0,28224980.0,Encounter Only
+1327.61948393,Emergency,"Child, Youth & Family",Female,2016.0,2D98203,Adult Psychiatry,20 - 24,1911.89633765,Home Care,2223.0,-2.60908349283,10.0,20286984.0,General Lab
+1298.72744121,Inpatient,Laboratory,Female,2016.0,C9B9133,HH ECG Electrocardiogram,35 - 39,74.6321941169,Emergency,1773.0,-11.7207359881,1.0,22979819.0,Radiology
+1210.60668617,Inpatient,Mental Health,Female,2015.0,2D98203,Medical Imaging,45 - 49,412.693591098,MHAS - Acute Care,390.0,27.0116850611,6.0,22979819.0,Encounter Only
+-81.5193383519,Recurring,Laboratory,Female,2016.0,DC2302,Coag Panel Careset,50 - 54,134.151359606,Open Encounter,1490.0,175.903032423,8.0,91976820.0,Radiology
+1218.63122991,Inpatient,Outpatient,Male,2014.0,102DBC2,XR Chest 2 Views,45 - 49,823.731075177,Emergency,874.0,2.54942854787,5.0,27512904.0,Encounter Only
+2525.81856665,Outpatient,Medicine,Male,2012.0,8A1A543,Medical Imaging,45 - 49,2622.09818298,Ambulatory,1977.0,-13.762380425,4.0,30202859.0,Encounter Only
+1155.59977539,Recurring,NA,Male,2014.0,C9B9133,XR Wrist and Scaphoid Left,45 - 49,1131.94912974,MHAS - Residential,513.0,6.64954262586,11.0,88001591.0,Encounter Only
+1524.63201656,Outpatient,Outpatient,Male,2009.0,C9B9133,Medical Imaging,45 - 49,1487.22593508,Ambulatory,1109.0,1.29138034129,8.0,47012732.0,Radiology
+2200.56605037,Inpatient,Laboratory,Male,2007.0,7C1DB2,Protein Total,45 - 49,2118.80208909,Emergency,1429.0,42.6584886073,6.0,33446252.0,General Lab
+-95.6229512557,Recurring,NA,Female,2010.0,DC2302,Acute Rehabilitation,20 - 24,-125.175334656,Open Encounter,1181.0,179.282001943,2.0,29166871.0,Radiology
+1467.89345024,Inpatient,Laboratory,Male,2017.0,C9B9133,Hepatitis B Surface Antibody,60 - 64,1202.23081349,Inpatient Acute,1514.0,36.5710675975,1.0,90640891.0,Diagnosis
+1425.48913881,Home Care,Outpatient,Male,2009.0,C9B9133,MRI Spine Lumbar w/o Contrast,60 - 64,1504.85505798,Emergency,1977.0,-9.07038540809,1.0,43901372.0,General Lab
+1626.64063612,Inpatient,Mental Health,Female,2014.0,DC2302,Adult Psychiatry,20 - 24,1773.51760198,MHAS - Residential,1977.0,-11.0428368874,10.0,27224295.0,Encounter Only
+1583.57878949,Inpatient,Laboratory,Male,2017.0,977D203,Potassium Level,20 - 24,1138.48223168,Specimen,227.0,29.4168333511,6.0,32491414.0,General Lab
+1669.58076055,Other,Diagnostic Imaging,Male,2017.0,977D203,Hepatitis B Careset,60 - 64,2104.26093873,Inpatient Acute,520.0,4.08941671517,3.0,85708971.0,General Lab
+2221.94002858,Emergency,Laboratory,Male,2017.0,C9B9133,GGT,45 - 49,1988.74871473,Inpatient Acute,520.0,0.477058080474,3.0,27356692.0,General Lab
+1888.03715279,Inpatient,Laboratory,Male,2017.0,7C1DB2,Hepatitis B Surface Antigen,45 - 49,1310.45616256,Inpatient Acute,874.0,-7.33250551814,3.0,36791419.0,General Lab
+680.186676656,Inpatient,Surgery,Male,2009.0,C9B9133,XR Wrist Limited 2 Views Left,60 - 64,1944.13712144,Inpatient Acute,1170.0,27.094275886,8.0,31467193.0,Diagnosis
+1558.46204232,Inpatient,Laboratory,Male,2017.0,7C1DB2,Enterology,60 - 64,1499.68670558,Emergency,2230.0,-20.7162333961,1.0,20125520.0,General Lab
+773.425334962,Inpatient,Mental Health,Male,2014.0,2D98203,Adult Psychiatry,20 - 24,1046.32892484,Open Encounter,916.0,-25.4529333532,4.0,22902542.0,Encounter Only
+2002.5934467,Inpatient,Laboratory,Female,2016.0,7C1DB2,Glucose Random,45 - 49,1538.79736538,Specimen,520.0,-49.8075906117,1.0,41872894.0,General Lab
+477.543234236,Inpatient,Outpatient,Female,2017.0,102DBC2,xxProtein Electrophoresis,35 - 39,289.191004113,MHAS - Acute Care,1773.0,15.4442527649,8.0,25763847.0,Encounter Only
+1093.0673499,Inpatient,"Child, Youth & Family",Male,2015.0,977D203,Adult Psychiatry,45 - 49,1474.51403374,Ambulatory,167.0,30.2082405845,6.0,43912921.0,Encounter Only
+189.271277306,Inpatient,Mental Health,Female,2013.0,DC2302,Adult Psychiatry,20 - 24,2046.25651719,Open Encounter,916.0,944.319553366,4.0,44186773.0,Encounter Only
+1037.55049864,Inpatient,Mental Health,Male,2015.0,102DBC2,Adult Psychiatry,35 - 39,1085.791644,MHAS - Acute Care,167.0,-451.002541827,4.0,25912238.0,Encounter Only
+1575.26438292,Other,Diagnostic Imaging,Male,2017.0,C9B9133,HIV Quantitative,45 - 49,1485.39706399,Emergency,1631.0,-21.0019568729,3.0,90640891.0,General Lab
+387.496189753,Other,Rehab,Female,2013.0,1A491A2,Surgery,35 - 39,1718.57459293,Ambulatory,1582.0,8.72406182381,10.0,34290077.0,Encounter Only
+1356.20784677,Emergency,Outpatient,Male,2012.0,DC2302,xxAutomated Diff,60 - 64,1453.44033131,Emergency,1853.0,-26.6055442777,8.0,88001591.0,Encounter Only
+2032.98460813,Inpatient,Mental Health,Male,2017.0,7C1DB2,Medicine Hospitalist,45 - 49,1028.03988797,Emergency,755.0,-1.31929888738,6.0,36011436.0,General Lab
+2304.77136498,Emergency,Diagnostic Imaging,Female,2017.0,7C1DB2,Bilirubin Total,45 - 49,2240.53257356,Specimen,1631.0,5.10283410005,1.0,34530491.0,General Lab
+3071.67763521,Home Care,Laboratory,Female,2011.0,977D203,XR Chest 2 Views,60 - 64,757.707872222,Specimen,1718.0,5.00628533123,8.0,91664860.0,Radiology
+2934.21016726,Inpatient,Laboratory,Female,2016.0,977D203,XR Wrist and Scaphoid Left,35 - 39,2251.30231819,Inpatient Acute,567.0,24.4200404566,3.0,25912238.0,General Lab
+721.706428113,Inpatient,Mental Health,Male,2011.0,102DBC2,AST,45 - 49,775.256540524,MHAS - Acute Care,916.0,145.650295615,10.0,45560123.0,Encounter Only
+1008.68265419,Outpatient,NA,Female,2014.0,C9B9133,Medicine Hospitalist,30 - 34,1771.51390825,Ambulatory,296.0,-44.7514005691,2.0,34221331.0,Encounter Only
+2636.20191331,Other,Diagnostic Imaging,Male,2017.0,2D98203,Laboratory,60 - 64,2575.26159456,Emergency,1631.0,-3.90262911643,1.0,29483966.0,Diagnosis
+1353.46153706,Recurring,NA,Female,2015.0,C9B9133,Calcium Ionized Level,35 - 39,835.866167808,Ambulatory,787.0,-22.1482048808,8.0,33479887.0,Encounter Only
+1697.82947787,Outpatient,Mental Health,Male,2010.0,1AB5C92,Adult Psychiatry,45 - 49,1981.8735857,MHAS - Residential,1582.0,0.426108894392,10.0,19742002.0,Encounter Only
+2450.36966438,Emergency,Laboratory,Male,2016.0,7C1DB2,CT Wrist w/o Contrast Left,35 - 39,2357.91093737,Emergency,1631.0,-10.6823392747,1.0,85708971.0,General Lab
+4.10781755094,Other,Surgery,Male,2013.0,102DBC2,Macroscopic Urinalysis,35 - 39,1337.85163001,Inpatient Acute,275.0,20.759544686,9.0,90188218.0,Encounter Only
+3718.39810099,Inpatient,Laboratory,Female,2016.0,977D203,Complete Blood Count and Differential,45 - 49,1973.33673708,Inpatient Acute,513.0,-16.4816657905,3.0,40274284.0,General Lab
+1103.14762415,Emergency,Laboratory,Female,2016.0,C9B9133,Sodium Level,60 - 64,1286.33418507,Inpatient Acute,1825.0,-33.7937119919,1.0,26276423.0,General Lab
+205.822381443,Inpatient,Surgery,Male,2010.0,7C1DB2,Confirmatory Hepatitis C Antibody,50 - 54,193.376656395,Day Care,1448.0,13.0483317852,5.0,27505084.0,Encounter Only
+1720.02900795,Inpatient,Laboratory,Male,2017.0,C9B9133,Adult Psychiatry,45 - 49,1974.56835089,Inpatient Acute,520.0,11.0627414408,6.0,87456582.0,General Lab
+1857.13780894,Inpatient,Laboratory,Male,2016.0,C9B9133,Chloride Level,20 - 24,2299.12559875,Inpatient Acute,1631.0,31.830361313,6.0,42338195.0,General Lab
+1647.04972278,Inpatient,Mental Health,Male,2014.0,1A491A2,Lactate Level,35 - 39,723.962651812,MHAS - Acute Care,2116.0,-21.2543337885,6.0,47012732.0,Encounter Only
+1087.97864134,Inpatient,Mental Health,Female,2012.0,2D98203,Laboratory,50 - 54,816.99339251,Open Encounter,1612.0,33.1742433141,4.0,87456582.0,Radiology
+1344.69757097,Inpatient,Mental Health,Male,2012.0,977D203,Troponin T High Sensitivity,45 - 49,998.121343321,MHAS - Acute Care,1718.0,-33.8944165425,10.0,92068717.0,Encounter Only
+1520.0463812,Inpatient,Laboratory,Male,2016.0,C9B9133,Potassium Level,45 - 49,2912.65643557,Emergency,1631.0,3.29909768802,7.0,30923138.0,General Lab
+2600.73194067,Inpatient,Laboratory,Male,2016.0,DC2302,GGT,45 - 49,2280.09749018,Specimen,718.0,47.4345469036,3.0,85708971.0,General Lab
+1881.35242416,Inpatient,Laboratory,Female,2007.0,7C1DB2,xxProtein Electrophoresis,60 - 64,2375.93691456,Inpatient Acute,520.0,-38.114326783,1.0,31006937.0,Radiology
+1973.66086692,Inpatient,Laboratory,Male,2017.0,8A1A543,"K42.9,  Umbilical hernia without obs or gangrene",60 - 64,2031.38593562,MHAS - Residential,1657.0,-13.2393385248,6.0,87256532.0,General Lab
+-216.231703632,Emergency,NA,Male,2011.0,2D98203,NA,35 - 39,651.111545204,Emergency,1429.0,-18.4109594006,11.0,30357039.0,Encounter Only
+1911.27547199,Emergency,Laboratory,Male,2016.0,C9B9133,Sodium Level,45 - 49,1370.99952822,Inpatient Acute,1723.0,31.4418219432,3.0,29798796.0,Radiology
+2096.83214193,Outpatient,Surgery,Male,2017.0,2D98203,CT Wrist w/o Contrast Left,60 - 64,1576.48396967,Ambulatory,251.0,19.9568826924,2.0,88162301.0,Radiology
+1189.14976707,Emergency,NA,Female,2014.0,102DBC2,XR Chest 2 Views,30 - 34,-187.959423667,Emergency,755.0,19.9906895488,10.0,88228925.0,Encounter Only
+2033.41503824,Emergency,Laboratory,Female,2016.0,102DBC2,Sodium Level,35 - 39,1691.22179435,Ambulatory,513.0,13.064472366,2.0,21515321.0,Radiology
+605.574060719,Outpatient,Outpatient,Female,2012.0,C9B9133,XR Chest AP/PA 1 View,45 - 49,1740.17509134,Emergency,1181.0,35.3337729754,8.0,47012732.0,Encounter Only
+610.189503641,Home Care,Mental Health,Female,2012.0,1A491A2,Colonoscopy (FIT Positive Yes CSP) SN,45 - 49,462.760687771,MHAS - Acute Care,2230.0,-3.78753654413,9.0,36818812.0,Encounter Only
+1769.99561597,Emergency,Diseases of the digestive system,Female,2016.0,DC2302,Potassium Level,35 - 39,2436.17199905,MHAS - Residential,132.0,-7.42733495742,6.0,28765572.0,Radiology
+1723.13052585,Other,Outpatient,Male,2012.0,102DBC2,XR Chest 2 Views,60 - 64,593.677591375,MHAS - Acute Care,1032.0,-19.7552927267,12.0,43273238.0,Encounter Only
+1246.20403699,Outpatient,Diagnostic Imaging,Female,2011.0,2D98203,Adult Psychiatry,35 - 39,850.672504238,Open Encounter,243.0,-5.99283501881,6.0,33284279.0,Encounter Only
+1385.20231054,Emergency,NA,Male,2012.0,1A491A2,Hepatitis B Surface Antibody,30 - 34,330.556113001,Emergency,614.0,-8.65321331188,3.0,22285096.0,Encounter Only
+2059.90193833,Inpatient,NA,Female,2016.0,8A1A543,Sodium Level,35 - 39,1403.07449075,Inpatient Acute,388.0,-30.8958505921,6.0,45835799.0,General Lab
+1848.28485943,Other,Outpatient,Male,2012.0,C9B9133,xxAutomated Diff,60 - 64,1746.58520924,Ambulatory,1819.0,-38.6418601271,4.0,91574104.0,Micro
+1211.82111659,Emergency,NA,Male,2012.0,102DBC2,Acute Rehabilitation,45 - 49,779.941489756,Emergency,1033.0,-28.5190205953,8.0,27196698.0,Diagnosis
+1003.7727387,Other,Medicine,Female,2007.0,2D98203,Laboratory,35 - 39,940.556392828,Inpatient Acute,520.0,-10.7529191001,1.0,86008853.0,Encounter Only
+821.417164382,Emergency,NA,Male,2007.0,7C1DB2,NA,60 - 64,531.795703401,Emergency,934.0,-46.9187040462,12.0,22323452.0,Encounter Only
+1659.94183205,Inpatient,Diagnostic Imaging,Male,2014.0,DC2302,AST,45 - 49,1780.00845582,Inpatient Acute,1631.0,0.151162222261,3.0,37874802.0,General Lab
+594.443774363,Emergency,Mental Health,Male,2012.0,1AB5C92,Adult Psychiatry,35 - 39,426.834676861,MHAS - Acute Care,2116.0,-12.9937442206,1.0,31296668.0,Encounter Only
+324.111344032,Outpatient,NA,Female,2015.0,977D203,Outpatient,60 - 64,911.450102917,Ambulatory,1657.0,40.3755884581,4.0,35488213.0,Radiology
+751.396994411,Other,Outpatient,Female,2017.0,C9B9133,Colonoscopy (FIT Positive Yes CSP) SN,50 - 54,940.442775089,Home Care,34.0,-4.17787492082,8.0,29464770.0,Encounter Only
+1484.00969929,Home Care,Outpatient,Female,2014.0,977D203,Laboratory,60 - 64,863.130393274,Specimen,2021.0,-23.5215512036,5.0,41019519.0,Encounter Only
+640.064507001,Inpatient,Mental Health,Male,2013.0,C9B9133,MRI Spine Lumbar w/o Contrast,60 - 64,939.612653469,Open Encounter,2190.0,3.35186863,1.0,30566397.0,Encounter Only
+1715.93818444,Emergency,Laboratory,Male,2017.0,7C1DB2,Protein Total,60 - 64,2246.15592831,MHAS - Residential,1109.0,13.2395456043,6.0,87456582.0,General Lab
+311.420101752,Recurring,NA,Male,2013.0,1AB5C92,HH ECG Electrocardiogram,45 - 49,1253.10157504,Open Encounter,167.0,-9.73530013253,5.0,85807367.0,Encounter Only
+439.01150922,Inpatient,Mental Health,Male,2013.0,102DBC2,Adult Psychiatry,45 - 49,480.288193616,MHAS - Residential,2116.0,0.108048366992,3.0,21251468.0,Encounter Only
+2016.49008657,Other,Laboratory,Female,2016.0,2D98203,Hepatitis C Antibody,45 - 49,2018.99334068,Emergency,1429.0,-8.59953415401,10.0,20461999.0,General Lab
+-9.87663856537,Other,Diagnostic Imaging,Female,2011.0,C9B9133,XR Chest AP/PA 1 View,35 - 39,77.5032310882,Ambulatory,513.0,-9.01474011462,6.0,36561033.0,Diagnosis
+690.036844489,Emergency,Outpatient,Male,2013.0,1A491A2,NA,45 - 49,625.507158819,Emergency,1810.0,-14.1084162546,12.0,29166871.0,Encounter Only
+217.280880112,Outpatient,NA,Male,2015.0,C9B9133,Medical Imaging,50 - 54,316.26343005,Ambulatory,1264.0,-16.1438469203,10.0,39756628.0,Encounter Only
+2033.09232053,Other,Laboratory,Female,2016.0,2D98203,Magnesium Level,35 - 39,2100.49772763,Emergency,1718.0,-18.841823126,10.0,30333420.0,General Lab
+1034.20737899,Outpatient,Rehab,Male,2007.0,1AB5C92,xxCD4,60 - 64,1440.62687139,Inpatient Acute,768.0,789.17703276,8.0,92020489.0,Radiology
+1119.92166947,Emergency,NA,Female,2017.0,2D98203,NA,35 - 39,1162.67795404,Home Care,807.0,18.1373001762,11.0,87120526.0,Encounter Only
+177.855488087,Emergency,Rehab,Male,2012.0,C9B9133,Hepatitis B Surface Antibody,45 - 49,179.136800161,Emergency,947.0,-39.3788560109,7.0,29464770.0,Encounter Only
+1451.48275774,Inpatient,Diagnostic Imaging,Male,2017.0,C9B9133,Glucose Random,60 - 64,1483.06010707,Specimen,1718.0,-23.0711050464,1.0,90640891.0,General Lab
+953.178272579,Outpatient,Laboratory,Female,2017.0,C9B9133,xxMicroscopic Urinalysis,20 - 24,894.477661518,Day Care,1365.0,-36.2972418331,11.0,39225226.0,Encounter Only
+1496.98113941,Emergency,Medicine,Male,2011.0,2D98203,Hepatitis B Core Antibody Total,45 - 49,1495.39262078,Emergency,1429.0,-7.37229162176,10.0,91976820.0,Encounter Only
+1567.54097326,Inpatient,Laboratory,Male,2017.0,C9B9133,Hepatitis A Antibody IgG,60 - 64,1546.27927835,Inpatient Acute,1365.0,12.9498578776,11.0,90640891.0,General Lab
+1895.89413351,Outpatient,Medicine,Male,2017.0,C9B9133,hCG Qualitative,35 - 39,2574.54490302,Ambulatory,275.0,12.5861920145,12.0,30060555.0,Encounter Only
+1641.22007752,Emergency,Outpatient,Female,2012.0,1AB5C92,PTT,35 - 39,117.920440558,Emergency,2035.0,-14.7968064582,5.0,24929450.0,Encounter Only
+1231.18834467,Recurring,Surgery,Male,2017.0,977D203,Opthamology,45 - 49,2289.49705151,Open Encounter,878.0,156.108368981,3.0,42230255.0,Encounter Only
+-80.8536453447,Recurring,Medicine,Male,2014.0,977D203,Adult Psychiatry,20 - 24,602.591931716,Emergency,1181.0,-45.2246457723,11.0,91664860.0,Encounter Only
+1440.71858414,Inpatient,Surgery,Male,2017.0,C9B9133,XR Wrist Limited 2 Views Left,60 - 64,1334.08037956,Emergency,1631.0,-19.532515248,1.0,84914188.0,General Lab
+2124.06336182,Outpatient,Outpatient,Male,2016.0,C9B9133,Urology,45 - 49,1180.15996398,Ambulatory,209.0,11.8619415739,2.0,27393990.0,Surgery
+1591.85637241,Other,Laboratory,Male,2016.0,977D203,Glucose Random,45 - 49,1840.17347348,Ambulatory,1601.0,13.1066985612,4.0,26746532.0,Radiology
+1401.51136991,Emergency,NA,Male,2012.0,102DBC2,Calcium Ionized Level,45 - 49,145.067721832,Emergency,2223.0,-27.7368371449,7.0,39285534.0,Micro
+1410.50928344,Outpatient,Outpatient,Male,2016.0,1A491A2,xxAutomated Diff,25 - 29,1324.85360285,MHAS - Residential,639.0,12.8113243178,10.0,36546008.0,Encounter Only
+2940.34148959,Emergency,Laboratory,Male,2016.0,7C1DB2,AST,35 - 39,3499.03857211,Emergency,520.0,39.4033671286,6.0,20125520.0,General Lab
+761.98819107,Inpatient,Mental Health,Male,2015.0,2D98203,Adult Psychiatry,45 - 49,1536.66052121,MHAS - Residential,1819.0,14.3766800908,8.0,20827984.0,Encounter Only
+1410.11090482,Inpatient,Medicine,Male,2016.0,C9B9133,Medicine Hospitalist,60 - 64,1456.61896531,Inpatient Acute,520.0,2.87682848719,7.0,31467193.0,General Lab
+610.886124491,Recurring,Mental Health,Female,2013.0,977D203,Anion Gap,45 - 49,-169.926226669,MHAS - Acute Care,1448.0,-36.3695391877,3.0,89323079.0,Encounter Only
+1356.37442724,Outpatient,"Child, Youth & Family",Male,2014.0,2D98203,Medical Imaging,60 - 64,2142.15765679,Ambulatory,1582.0,-10.0661140494,1.0,92020489.0,Encounter Only
+1400.76579459,Inpatient,Laboratory,Male,2017.0,C9B9133,Medical Assessment,60 - 64,1863.99980871,Inpatient Acute,2076.0,-38.9384414271,11.0,88162301.0,General Lab
+714.788116634,Other,Surgery,Female,2010.0,C9B9133,XR Wrist Limited 2 Views Left,60 - 64,-33.6915432458,Ambulatory,595.0,-3.10745902527,2.0,37683060.0,Encounter Only
+2215.63561482,Recurring,Mental Health,Male,2016.0,2D98203,hCG Qualitative,20 - 24,2592.90020926,Open Encounter,1170.0,-28.080383552,1.0,89758041.0,Diagnosis
